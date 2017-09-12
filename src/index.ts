@@ -7,3 +7,5 @@ export {
   createPostGraphQLSchema,
   withPostGraphQLContext,
 }
+
+export { default as graphql } from 'graphql'
